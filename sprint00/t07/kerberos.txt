@@ -1,0 +1,3 @@
+klist okhramkov
+kinit
+kdestroy -A
